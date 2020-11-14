@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "ijaz Sarwar",
+      "username": "Ijaz_Sarwar",
+      "email": "ijazchaudhry5244@gmail.com",
+      "phone": "+923045835244",
+      "website": "my-hulu-clone-df41f.",
+      "id": 2
+    },
+    {
+      "name": "000",
+      "username": "666",
+      "email": "ali@gmail",
+      "phone": "+923045835245",
+      "website": "chataporg.com",
+      "id": 3
+    },
+    {
+      "name": "Ahmad",
+      "username": "Ahmad Raza 2",
+      "email": "Ahmadraza@gmail.com",
+      "phone": "+923045835333",
+      "website": "tafheemulquran.com",
+      "id": 4
+    }
+  ]
+}

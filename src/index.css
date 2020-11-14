@@ -1,0 +1,26 @@
+.not-found {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search {
+  display: inline;
+  padding: 20px;
+}
+.search_button {
+  height: 40px;
+  width: 80px;
+  padding: 5px;
+}
+.search_input {
+  align-items: center;
+
+  width: 500px;
+  height: 40px;
+  margin: 10px;
+}
